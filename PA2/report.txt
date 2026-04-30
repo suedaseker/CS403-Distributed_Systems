@@ -1,0 +1,11 @@
+Abstarct Classes:
+
+Map and Reduce are the abstract methods for mapping and then reducing mapped data. 
+
+Functions: 
+
+Producer(producer input): Parts the input data and sends pieeces to the number of workers given.
+
+Consumer(id): Receives data pieces, calls the mapping function, and then sends partial results to the Result Collector function.
+
+ResultCollector(num workers): Aggregates partial results from the number of  workers and returns the final result.
