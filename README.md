@@ -2,6 +2,8 @@
 
 **Architectures** Archtectural styles, Middleware organizations, System architecture, Example architectures
 
+**Concurrency**
+
 **Processes** Threads, Virtualization, Clients, Servers, Code migration
 
 **Communication** Foundations, Remote Procedure Call (RPC), Message-Oriented communication, Multicast communication
